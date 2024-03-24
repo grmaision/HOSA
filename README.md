@@ -1,4 +1,4 @@
-#  High-Order Semantic Alignment for Unsupervised Fine-Grained Image-Text Retrieval (HOAS)
+#  High-Order Semantic Alignment for Unsupervised Fine-Grained Image-Text Retrieval (HOSA)
 
 This repository contains the implementation of our cutting-edge cross-modal visual-linguistic retrieval method, titled" High-Order Semantic Alignment for Unsupervised Fine-Grained Image-Text Retrieval". Our work has been accepted for publication in LREC-Coling 2024.
 
